@@ -1,3 +1,6 @@
+I AM NOT FINISHED WITH THIS HOMEWORK YET.
+
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
